@@ -1,4 +1,3 @@
-@'
 # Real-Time Client Project Dashboard
 
 A full-stack project management dashboard with role-based access control, task management, notifications, activity tracking, and real-time updates.
